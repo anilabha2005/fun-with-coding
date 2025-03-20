@@ -79,6 +79,7 @@ void Interest::calculateInterest() {
     }
 }
 
+
 int main() {
     Interest bankAccount;
     int choice;
